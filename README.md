@@ -6,7 +6,7 @@ Canary release is a technique that helps reduce the impact of negative changes b
 
 ## Advantages of Canary Releases
 
-* Both A and B can run in parallel without affecting each other.
+* Both, A and B, can run in parallel without affecting each other.
 * Rollbacks are simple.
 * New releases can be deployed with low risk.
 
