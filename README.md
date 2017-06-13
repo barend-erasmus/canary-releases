@@ -15,3 +15,7 @@ Canary release is a technique that helps reduce the impact of negative changes b
 * Services / API's need to be versioned.
 * Database Stored Procedures needs to be versioned.
 * Phoenix Server Strategy need to be in place.
+
+## Possible Release Strategy
+
+![](https://github.com/barend-erasmus/canary-releases/raw/master/images/canary-releases-pipeline.png)
